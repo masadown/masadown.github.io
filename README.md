@@ -9,7 +9,7 @@ It has the following features:
 - **Simple Implementation**\
   Primarily implemented using regular expressions and simple loops, making it easy to port.
 
-- **Content Embedding with {{Embedding}} Syntax**\
+- **Content Embedding with `{{Embedding}}` Syntax**\
   For example, `{{math:E = mc^{2}}}` can embed mathematical formulas, and `{{http://~}}` can embed content like posts from X (Twitter) or YouTube videos directly into the document. It can also be extended with custom embeddings.
 
 - **Supports Tables, Footnotes, Attribute Additions, and More**\
