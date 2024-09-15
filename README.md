@@ -15,4 +15,4 @@ It has the following features:
 - **Supports Tables, Footnotes, Attribute Additions, and More**\
   Tables can have merged cells, and other features include comments and container blocks.
 
-*Note: Regarding compatibility with Markdown, most content is displayed as-is, but some detailed rules may differ, and some features may not be supported. Please see here for more details.*
+*Note: Regarding compatibility with Markdown, most content is displayed as-is, but some detailed rules may differ, and some features may not be supported.*
